@@ -6,7 +6,7 @@ a js script that can be used as a feature that acts as a typing effect that is s
 - js file is `auto-type-writer.js`
 - will definitely add more features and flexibility to it
 
-## implementation:
+## Implementation:
 - i used setInterval() function (supported by almost all majorly used browsers).
 - since javascript engine has a single thread, i used multiple setInterval functions running independently of each other.
 
