@@ -17,5 +17,9 @@ a js script that can be used as a feature that acts as a typing effect that is s
 
 ![recording_20180209172852](https://user-images.githubusercontent.com/19563826/36053601-4f5a32d0-0dc0-11e8-8341-263cb82e4a63.gif)
 
+
+## License:
+- MIT
+
 <br><br>
 Ali Itani
