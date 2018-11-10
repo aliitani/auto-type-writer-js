@@ -7,7 +7,8 @@ a js script that can be used as a feature that acts as a typing effect that is s
 - will definitely add more features and flexibility to it
 
 ## Check it in Action:
-<a href="https://htmlpreview.github.io/?https://github.com/aliitani/auto-type-writer-js/master/index.html">Here!</a>
+\\<a href="https://htmlpreview.github.io/?https://github.com/aliitani/auto-type-writer-js/master/index.html">Here!</a>
+<a href="https://aliitani.github.io/auto-type-writer-js/">Here!</a>
 
 ## Implementation:
 - i used setInterval() function (supported by almost all majorly used browsers).
